@@ -7,7 +7,8 @@
 }
 
 body {
-    font-family: 'Josefin Sans'
+    font-family: 'Josefin Sans';
+    overflow-x:hidden;
 }
 /* width */
 ::-webkit-scrollbar {
